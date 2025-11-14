@@ -14,3 +14,9 @@ __pycache__/
 .vscode/
 .clangd
 *.out
+# Installation artifacts
+*.deb
+# Test binaries
+tests/simple_test
+tests/unit/unit_tests
+tests/unit/build/
